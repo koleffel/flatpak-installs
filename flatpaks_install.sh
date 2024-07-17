@@ -13,7 +13,6 @@ flatpak install flathub org.kde.kdenlive -y
 
 flatpak install flathub com.obsproject.Studio -y
 
-
 #qbittorrent
 
 flatpak install flathub org.qbittorrent.qBittorrent -y
@@ -21,13 +20,6 @@ flatpak install flathub org.qbittorrent.qBittorrent -y
 #onlyoffice
 
 flatpak install flathub org.onlyoffice.desktopeditors -y
-
-#Discord
-flatpak install flathub com.discordapp.Discord -y
-
-#install FLATSEAL - for flatpak permissions
-
-flatpak install flathub com.github.tchx84.Flatseal -y
 
 #install VIBER
 
@@ -85,6 +77,12 @@ flatpak install flathub gg.minion.Minion -y
 
 flatpak install flathub net.davidotek.pupgui2 -y
 
+#Discord
+flatpak install flathub com.discordapp.Discord -y
+
+#install FLATSEAL - for flatpak permissions
+
+flatpak install flathub com.github.tchx84.Flatseal -y
 
 ########## BROWSERS ############
 
