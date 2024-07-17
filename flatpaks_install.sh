@@ -30,7 +30,7 @@ flatpak install flathub org.onlyoffice.desktopeditors -y
 #flatpak install flathub io.github.flattool.Warehouse -y
 
 #VSCode
-flatpak install flathub com.visualstudio.code -y
+#flatpak install flathub com.visualstudio.code -y
 
 #Thunderbird Mail client
 flatpak install flathub org.mozilla.Thunderbird -y
@@ -39,10 +39,10 @@ flatpak install flathub org.mozilla.Thunderbird -y
 flatpak install flathub org.audacityteam.Audacity -y
 
 #Skype
-flatpak install flathub com.skype.Client -y
+#flatpak install flathub com.skype.Client -y
 
 #EasyEffects
-flatpak install flathub com.github.wwmm.easyeffects -y
+#flatpak install flathub com.github.wwmm.easyeffects -y
 
 #YouTube Downloader
 flatpak install flathub io.github.aandrew_me.ytdn -y
@@ -52,7 +52,7 @@ flatpak install flathub com.system76.Popsicle -y
 
 #spotify
 
-flatpak install flathub com.spotify.Client -y
+#flatpak install flathub com.spotify.Client -y
 
 #telegram
 
@@ -88,26 +88,26 @@ flatpak install flathub com.github.tchx84.Flatseal -y
 
 #install BRAVE
 
-flatpak install flathub com.brave.Browser -y
+#flatpak install flathub com.brave.Browser -y
 
 #install FLOORP
 
 flatpak install flathub one.ablaze.floorp -y
 
 #Microsoft EDGE Browser
-flatpak install flathub com.microsoft.Edge -y
+#flatpak install flathub com.microsoft.Edge -y
 
 #Google Chrome Browser
-flatpak install flathub com.google.Chrome -y
+#flatpak install flathub com.google.Chrome -y
 
 #Chromium Browser
-flatpak install flathub org.chromium.Chromium -y
+#flatpak install flathub org.chromium.Chromium -y
 
 #Vivaldi Browser
-flatpak install flathub com.vivaldi.Vivaldi -y
+#flatpak install flathub com.vivaldi.Vivaldi -y
 
 #Opera Browser
-flatpak install flathub com.opera.Opera -y
+#flatpak install flathub com.opera.Opera -y
 
 #update All the FLATPAKS
 
