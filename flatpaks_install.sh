@@ -7,20 +7,20 @@
 
 # KDENLIVE
 
-#flatpak install flathub org.kde.kdenlive -y
+flatpak install flathub org.kde.kdenlive -y
 
 #obs-studio
 
-#flatpak install flathub com.obsproject.Studio -y
+flatpak install flathub com.obsproject.Studio -y
 
 
 #qbittorrent
 
-#flatpak install flathub org.qbittorrent.qBittorrent -y
+flatpak install flathub org.qbittorrent.qBittorrent -y
 
 #onlyoffice
 
-#flatpak install flathub org.onlyoffice.desktopeditors -y
+flatpak install flathub org.onlyoffice.desktopeditors -y
 
 
 #spotify
